@@ -6,9 +6,13 @@ function Calcular(a) {
     {
       resultado.push('Fizz') ;
     }
-  else{
-    resultado.push(i);
-  }
+    else if(i % 5 === 0 )
+    {
+      resultado.push('Buzz');
+    }
+    else{
+      resultado.push(i);
+    }
   }
 return resultado.join(' ');
 }
