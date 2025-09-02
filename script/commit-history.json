@@ -1,11 +1,11 @@
 [
   {
-    "sha": "HEAD",
+    "sha": "4cb7bf6f9fb18b5094db98d8627fc9228aa274a5",
     "author": "Robert",
     "commit": {
       "date": "2025-09-02T21:32:32.000Z",
       "message": "first commit",
-      "url": "https://github.com/UCB-TallerDeDesarrollo/TDDLabBaseProject/commit/HEAD"
+      "url": "https://github.com/UCB-TallerDeDesarrollo/TDDLabBaseProject/commit/4cb7bf6f9fb18b5094db98d8627fc9228aa274a5"
     },
     "stats": {
       "total": 46,
@@ -17,5 +17,24 @@
     "test_count": 1,
     "failed_tests": 1,
     "conclusion": "failure"
+  },
+  {
+    "sha": "HEAD",
+    "author": "Robert",
+    "commit": {
+      "date": "2025-09-02T21:39:44.000Z",
+      "message": "first commit",
+      "url": "https://github.com/robert-ortiz/Fizzbuzz/commit/HEAD"
+    },
+    "stats": {
+      "total": 14,
+      "additions": 8,
+      "deletions": 6,
+      "date": "2025-09-02"
+    },
+    "coverage": 100,
+    "test_count": 2,
+    "failed_tests": 0,
+    "conclusion": "success"
   }
 ]
