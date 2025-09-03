@@ -57,12 +57,12 @@
     "conclusion": "failure"
   },
   {
-    "sha": "HEAD",
+    "sha": "eefd7082fad322df4e5932f9f8792c37d5fe3b13",
     "author": "Robert",
     "commit": {
       "date": "2025-09-03T04:35:01.000Z",
       "message": "second commit: optimizado",
-      "url": "https://github.com/robert-ortiz/Fizzbuzz/commit/HEAD"
+      "url": "https://github.com/robert-ortiz/Fizzbuzz/commit/eefd7082fad322df4e5932f9f8792c37d5fe3b13"
     },
     "stats": {
       "total": 22,
@@ -72,6 +72,25 @@
     },
     "coverage": 100,
     "test_count": 4,
+    "failed_tests": 0,
+    "conclusion": "success"
+  },
+  {
+    "sha": "HEAD",
+    "author": "Robert",
+    "commit": {
+      "date": "2025-09-03T05:02:12.000Z",
+      "message": "third commit:multiplo de 3 y 5 juntos",
+      "url": "https://github.com/robert-ortiz/Fizzbuzz/commit/HEAD"
+    },
+    "stats": {
+      "total": 9,
+      "additions": 8,
+      "deletions": 1,
+      "date": "2025-09-03"
+    },
+    "coverage": 100,
+    "test_count": 5,
     "failed_tests": 0,
     "conclusion": "success"
   }

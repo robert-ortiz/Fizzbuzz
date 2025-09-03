@@ -17,4 +17,7 @@ it('deberia devolver la secuencia hasta 5', () => {
      expect(Calcular(14)).toEqual('1, 2, Fizz, 4, Buzz, Fizz, 7, 8, Fizz, Buzz, 11, Fizz, 13, 14');
    });
 
+   it('deberia devolver la secuencia hasta 15', () => {
+     expect(Calcular(15)).toEqual('1, 2, Fizz, 4, Buzz, Fizz, 7, 8, Fizz, Buzz, 11, Fizz, 13, 14, FizzBuzz');
+   });
 });
