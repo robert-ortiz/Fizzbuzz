@@ -14,7 +14,7 @@ function Calcular(a) {
       resultado.push(i);
     }
   }
-return resultado.join(' ');
+return resultado.join(', ');
 }
 
 export default Calcular;
